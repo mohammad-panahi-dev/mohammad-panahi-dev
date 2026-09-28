@@ -1,16 +1,15 @@
-## Hi there 👋
+#Hi,I'M Mohammad Panahi👋
 
-<!--
-**mohammad-panahi-dev/mohammad-panahi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Developer in progress**
+📍Based in iran
+🚀Goal:AI Engineer in Dubai
 
-Here are some ideas to get you started:
+#🛠 Skills
+-Python(Learning)
+-Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##📌 Current Ptojects
+-[python-practice](https://github.com/mohammad-panahi-dev/python-practice)-My Pythonexercises
+
+##📫 Connect with me
+- GitHub: [@mohammad-panahi-dev](https://github.com/mohammad-panahi-dev)
